@@ -1,0 +1,4 @@
+    6  sudo apt install php-fpm php-mysql php-curl php-dom php-imagick php-mbstring php-zip php-gd php-intl
+https://grok.com/c/01918523-1d8a-4c99-8968-e76ccd39e45b?rid=ffb1d950-7e16-4cb1-8c0d-3a52436c7549
+
+https://alexshomenetwork.com/installing-wordpress-on-debian-13/
